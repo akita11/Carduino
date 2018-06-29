@@ -14,7 +14,11 @@ Carduinoは、クレジットカードサイズ・厚さ2.4mmの、Arduino互換
 
 PCとの接続は、以下の2通りが可能です。
 * 本体のコネクタをいったんはずし、以下のようにとりつけ、PCのUSBポートに直接さしこみます。（※コネクタの向きに注意してください。表裏が逆の場合、本体やPCを破損する恐れがあります）
+![USB connector](Carduino_v20_conn.jpg)
+
 * microUSBケーブルを以下のように本体にさしこみます。（表裏に注意してください。基板パターンがある面が、ケーブルのmicroUSBコネクタの端子側になります） 
+
+![microUSB connector](Carduino_v20_uUSB.jpg)
 
 # 作り方
 
