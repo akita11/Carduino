@@ -1,5 +1,7 @@
 # Carduino
 
+![omote](Carduino_v20_1.jpg)
+
 Carduinoは、クレジットカードサイズ・厚さ2.4mmの、Arduino互換機(ArduinoProMini/8MHz)です。
 財布などにいつもいれておいて、いつでもその場でArduinoを使うことができます。
 「Arduinoは興味あるんだけど、まだ触ったことないんだよね」という人に会ったら、その場でArduinoを体験してもらいましょう。
@@ -7,6 +9,8 @@ Carduinoは、クレジットカードサイズ・厚さ2.4mmの、Arduino互換
 * USB-Aコネクタ（収納式）で、PCのUSB端子に直接差し込むことができます。またmicroUSBケーブルで接続することもできます。
 * Arduinoの入出力端子はメスソケットですので、ジャンパワイヤ等をさしてつかうこともできます。
 * USB-シリアル変換には、FTDI FT232Rを使っています。
+
+![ura](Carduino_v20_2.jpg)
 
 # 使い方
 
