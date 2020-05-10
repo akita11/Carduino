@@ -2,50 +2,35 @@
 
 ![omote](Carduino_v41.jpg)
 
-Carduino (v4.1)‚ÍAƒNƒŒƒWƒbƒgƒJ[ƒhƒTƒCƒYEŒú‚³2.4mm‚ÌAArduinoUNOŒÝŠ·‹@‚Å‚·B
-à•z‚È‚Ç‚É‚¢‚Â‚à‚¢‚ê‚Ä‚¨‚¢‚ÄA‚¢‚Â‚Å‚à‚»‚Ìê‚ÅArduino‚ðŽg‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-uArduino‚Í‹»–¡‚ ‚é‚ñ‚¾‚¯‚ÇA‚Ü‚¾G‚Á‚½‚±‚Æ‚È‚¢‚ñ‚¾‚æ‚Ëv‚Æ‚¢‚¤l‚É‰ï‚Á‚½‚çA‚»‚Ìê‚ÅArduino‚ð‘ÌŒ±‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚å‚¤B
-* ArduinoIDE‚Ì“±“ü‚©‚çLƒ`ƒJ‚Ü‚Å‚ÌŽè‡‚ÍA–{‘Ì— –Ê‚ÉƒVƒ‹ƒN‚Å‘‚©‚ê‚Ä‚¢‚Ü‚·B‚Ü‚½ArduinoIDE‚Ìƒ_ƒEƒ“ƒ[ƒhæ‚àQRƒR[ƒh‚Å“Ç‚ÝŽæ‚ê‚Ü‚·B
-* USB-AƒRƒlƒNƒ^iŽû”[Ž®j‚ÅAPC‚ÌUSB’[Žq‚É’¼Ú·‚µž‚Þ‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚Ü‚½USB Type-CƒP[ƒuƒ‹‚ÅÚ‘±‚·‚é‚±‚Æ‚à‚Å‚«‚Ü‚·B
-* Arduino‚Ì“üo—Í’[Žq‚ÍƒƒXƒ\ƒPƒbƒg‚Å‚·‚Ì‚ÅAƒWƒƒƒ“ƒpƒƒCƒ„“™‚ð‚³‚µ‚Ä‚Â‚©‚¤‚±‚Æ‚à‚Å‚«‚Ü‚·B
-* USB-ƒVƒŠƒAƒ‹•ÏŠ·‚É‚ÍAFTDI FT232R‚ðŽg‚Á‚Ä‚¢‚Ü‚·B
-* [ƒXƒCƒbƒ`ƒTƒCƒGƒ“ƒX‚ÅˆÏ‘õ”Ì”„‚Í‚¶‚Ü‚è‚Ü‚µ‚½](https://www.switch-science.com/catalog/3917/)
+Carduino (v4.1)ã¯ã€ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆã‚«ãƒ¼ãƒ‰ã‚µã‚¤ã‚ºãƒ»åŽšã•2.4mmã®ã€ArduinoUNOäº’æ›æ©Ÿã§ã™ã€‚
+è²¡å¸ƒãªã©ã«ã„ã¤ã‚‚ã„ã‚Œã¦ãŠã„ã¦ã€ã„ã¤ã§ã‚‚ãã®å ´ã§Arduinoã‚’ä½¿ã†ã“ã¨ãŒã§ãã¾ã™ã€‚
+ã€ŒArduinoã¯èˆˆå‘³ã‚ã‚‹ã‚“ã ã‘ã©ã€ã¾ã è§¦ã£ãŸã“ã¨ãªã„ã‚“ã ã‚ˆã­ã€ã¨ã„ã†äººã«ä¼šã£ãŸã‚‰ã€ãã®å ´ã§Arduinoã‚’ä½“é¨“ã—ã¦ã‚‚ã‚‰ã„ã¾ã—ã‚‡ã†ã€‚
+* ArduinoIDEã®å°Žå…¥ã‹ã‚‰Lãƒã‚«ã¾ã§ã®æ‰‹é †ã¯ã€æœ¬ä½“è£é¢ã«ã‚·ãƒ«ã‚¯ã§æ›¸ã‹ã‚Œã¦ã„ã¾ã™ã€‚ã¾ãŸArduinoIDEã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰å…ˆã‚‚QRã‚³ãƒ¼ãƒ‰ã§èª­ã¿å–ã‚Œã¾ã™ã€‚
+* USB-Aã‚³ãƒã‚¯ã‚¿ï¼ˆåŽç´å¼ï¼‰ã§ã€PCã®USBç«¯å­ã«ç›´æŽ¥å·®ã—è¾¼ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚ã¾ãŸUSB Type-Cã‚±ãƒ¼ãƒ–ãƒ«ã§æŽ¥ç¶šã™ã‚‹ã“ã¨ã‚‚ã§ãã¾ã™ã€‚
+* Arduinoã®å…¥å‡ºåŠ›ç«¯å­ã¯ãƒ¡ã‚¹ã‚½ã‚±ãƒƒãƒˆã§ã™ã®ã§ã€ã‚¸ãƒ£ãƒ³ãƒ‘ãƒ¯ã‚¤ãƒ¤ç­‰ã‚’ã•ã—ã¦ã¤ã‹ã†ã“ã¨ã‚‚ã§ãã¾ã™ã€‚
+* USB-ã‚·ãƒªã‚¢ãƒ«å¤‰æ›ã«ã¯ã€FTDI FT232Rã‚’ä½¿ã£ã¦ã„ã¾ã™ã€‚
+* [ã‚¹ã‚¤ãƒƒãƒã‚µã‚¤ã‚¨ãƒ³ã‚¹ã§å§”è¨—è²©å£²ã¯ã˜ã¾ã‚Šã¾ã—ãŸ](https://www.switch-science.com/catalog/3917/)
 
-# Žg‚¢•û
+# ä½¿ã„æ–¹
 
-–{‘Ì— –Ê‚ÌƒVƒ‹ƒN‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+æœ¬ä½“è£é¢ã®ã‚·ãƒ«ã‚¯ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
 
-PC‚Æ‚ÌÚ‘±‚ÍAˆÈ‰º‚Ì2’Ê‚è‚ª‰Â”\‚Å‚·B
-* –{‘Ì‚ÌƒRƒlƒNƒ^‚ð‚¢‚Á‚½‚ñ‚Í‚¸‚µAˆÈ‰º‚Ì‚æ‚¤‚É‚Æ‚è‚Â‚¯APC‚ÌUSBƒ|[ƒg‚É’¼Ú‚³‚µ‚±‚Ý‚Ü‚·Bi¦ƒRƒlƒNƒ^‚ÌŒü‚«‚É’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢B•\— ‚ª‹t‚Ìê‡A–{‘Ì‚âPC‚ð”j‘¹‚·‚é‹°‚ê‚ª‚ ‚è‚Ü‚·j
+PCã¨ã®æŽ¥ç¶šã¯ã€ä»¥ä¸‹ã®2é€šã‚ŠãŒå¯èƒ½ã§ã™ã€‚
+* æœ¬ä½“ã®ã‚³ãƒã‚¯ã‚¿ã‚’ã„ã£ãŸã‚“ã¯ãšã—ã€ä»¥ä¸‹ã®ã‚ˆã†ã«ã¨ã‚Šã¤ã‘ã€PCã®USBãƒãƒ¼ãƒˆã«ç›´æŽ¥ã•ã—ã“ã¿ã¾ã™ã€‚ï¼ˆâ€»ã‚³ãƒã‚¯ã‚¿ã®å‘ãã«æ³¨æ„ã—ã¦ãã ã•ã„ã€‚è¡¨è£ãŒé€†ã®å ´åˆã€æœ¬ä½“ã‚„PCã‚’ç ´æã™ã‚‹æã‚ŒãŒã‚ã‚Šã¾ã™ï¼‰
 ![USB connector](Carduino_v41_conn.jpg)
 
-* USB Type-CƒP[ƒuƒ‹‚ð–{‘ÌƒRƒlƒNƒ^•”‚É‚³‚µ‚±‚Ý‚Ü‚·B
+* USB Type-Cã‚±ãƒ¼ãƒ–ãƒ«ã‚’æœ¬ä½“ã‚³ãƒã‚¯ã‚¿éƒ¨ã«ã•ã—ã“ã¿ã¾ã™ã€‚
 
-‚È‚¨–¢Žg—pŽž‚ÉUSBƒRƒlƒNƒ^•”‚ðŠi”[‚µ‚Ä‚¨‚­ƒRƒlƒNƒ^‚É‚ÍAA6/A7A“dŒ¹5VAGND‚ª‚Â‚È‚ª‚Á‚Ä‚¢‚Ü‚·B
+ãªãŠæœªä½¿ç”¨æ™‚ã«USBã‚³ãƒã‚¯ã‚¿éƒ¨ã‚’æ ¼ç´ã—ã¦ãŠãã‚³ãƒã‚¯ã‚¿ã«ã¯ã€A6/A7ã€é›»æº5Vã€GNDãŒã¤ãªãŒã£ã¦ã„ã¾ã™ã€‚
 
-# ì‚è•û
+# ä½œã‚Šæ–¹
 
-* ƒK[ƒo[ƒf[ƒ^(Carduino_v41_gerber.zip)‚ÅŠî”Â»‘¢i”ÂŒú0.6mmj‚µA•”•i•\iCarduino_v41_bom.xlsxj‚Ì•”•i‚ð‚Æ‚è‚Â‚¯‚Ü‚·B
-* 4pA6pA8p‚Ìƒsƒ“ƒ\ƒPƒbƒgiŠe2ŒÂFHŒŽ“dŽq“™‚Åw“ü‚Å‚«‚Ü‚·j‚ðAŠî”Â‚Ìa‚É‚ ‚í‚¹‚Ä‰¡Œü‚¯‚É‚Í‚ñ‚¾•t‚¯‚µ‚Ü‚·B‚Ü‚½4pƒsƒ“ƒwƒbƒ_iHŒŽ“dŽq“™‚Åw“ü‚Å‚«‚Ü‚·j‚ðUSBƒRƒlƒNƒ^‘¤‚É‚Æ‚è‚Â‚¯‚Ü‚·B
-* ”ÂŒú1mm‚Ü‚½‚Í1.5mm‚ÌƒAƒNƒŠƒ‹”Â‚ðCarduino_v41_cover.pdf‚ÅƒŒ[ƒU[ƒJƒbƒ^[“™‚ÅƒJƒbƒg‚µA–{‘Ì‚É“§–¾—¼–Êƒe[ƒv‚â“§–¾ƒ{ƒ“ƒh“™‚ÅŒÅ’è‚µ‚Ü‚·B
-* ArduinoUNO—p‚Ìƒu[ƒgƒ[ƒ_‚ð‘‚«ž‚Ý‚Ü‚·
+* ã‚¬ãƒ¼ãƒãƒ¼ãƒ‡ãƒ¼ã‚¿(Carduino_v41_gerber.zip)ã§åŸºæ¿è£½é€ ï¼ˆæ¿åŽš0.6mmï¼‰ã—ã€éƒ¨å“è¡¨ï¼ˆCarduino_v41_bom.xlsxï¼‰ã®éƒ¨å“ã‚’ã¨ã‚Šã¤ã‘ã¾ã™ã€‚
+* 4pã€6pã€8pã®ãƒ”ãƒ³ã‚½ã‚±ãƒƒãƒˆï¼ˆå„2å€‹ï¼šç§‹æœˆé›»å­ç­‰ã§è³¼å…¥ã§ãã¾ã™ï¼‰ã‚’ã€åŸºæ¿ã®æºã«ã‚ã‚ã›ã¦æ¨ªå‘ã‘ã«ã¯ã‚“ã ä»˜ã‘ã—ã¾ã™ã€‚ã¾ãŸ4pãƒ”ãƒ³ãƒ˜ãƒƒãƒ€ï¼ˆç§‹æœˆé›»å­ç­‰ã§è³¼å…¥ã§ãã¾ã™ï¼‰ã‚’USBã‚³ãƒã‚¯ã‚¿å´ã«ã¨ã‚Šã¤ã‘ã¾ã™ã€‚
+* æ¿åŽš1mmã¾ãŸã¯1.5mmã®ã‚¢ã‚¯ãƒªãƒ«æ¿ã‚’Carduino_v41_cover.pdfã§ãƒ¬ãƒ¼ã‚¶ãƒ¼ã‚«ãƒƒã‚¿ãƒ¼ç­‰ã§ã‚«ãƒƒãƒˆã—ã€æœ¬ä½“ã«é€æ˜Žä¸¡é¢ãƒ†ãƒ¼ãƒ—ã‚„é€æ˜Žãƒœãƒ³ãƒ‰ç­‰ã§å›ºå®šã—ã¾ã™ã€‚
+* ArduinoUNOç”¨ã®ãƒ–ãƒ¼ãƒˆãƒ­ãƒ¼ãƒ€ã‚’æ›¸ãè¾¼ã¿ã¾ã™
 
-# ìŽÒ
+# ä½œè€…
 
 Junichi Akita (akita@ifdl.jp, @akita11)
 
-
-
-
-Žg‚¢•û
-–{‘Ì— –Ê‚ÌƒVƒ‹ƒN‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢BPC‚Æ‚ÌÚ‘±‚ÍAˆÈ‰º‚Ì2’Ê‚è‚ª‰Â”\‚Å‚·B
-
-- –{‘Ì‚ÌƒRƒlƒNƒ^‚ð‚¢‚Á‚½‚ñ‚Í‚¸‚µAˆÈ‰º‚Ì‚æ‚¤‚É‚Æ‚è‚Â‚¯APC‚ÌUSBƒ|[ƒg‚É’¼Ú‚³‚µ‚±‚Ý‚Ü‚·i¦ƒRƒlƒNƒ^‚ÌŒü‚«‚É’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢B•\— ‚ª‹t‚Ìê‡A–{‘Ì‚âPC‚ð”j‘¹‚·‚é‹°‚ê‚ª‚ ‚è‚Ü‚·jB
-<Carduino_v41conn.jpg>
-
-- USB Type-CƒP[ƒuƒ‹‚ð–{‘ÌƒRƒlƒNƒ^•”‚É‚³‚µ‚±‚Ý‚Ü‚·B
-
-‚È‚¨–¢Žg—pŽž‚ÉUSBƒRƒlƒNƒ^•”‚ðŠi”[‚µ‚Ä‚¨‚­ƒRƒlƒNƒ^‚É‚ÍAA6/A7A“dŒ¹5VAGND‚ª‚Â‚È‚ª‚Á‚Ä‚¢‚Ü‚·B
-
-ƒTƒ|[ƒgƒy[ƒW
-https://github.com/akita11/Carduino
