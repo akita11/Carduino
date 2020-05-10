@@ -1,41 +1,51 @@
 # Carduino
 
-![omote](Carduino_v20_1.jpg)
+![omote](Carduino_v41.jpg)
 
-Carduinoは、クレジットカードサイズ・厚さ2.4mmの、Arduino互換機(ArduinoProMini/8MHz)です。
-財布などにいつもいれておいて、いつでもその場でArduinoを使うことができます。
-「Arduinoは興味あるんだけど、まだ触ったことないんだよね」という人に会ったら、その場でArduinoを体験してもらいましょう。
-* ArduinoIDEの導入からLチカまでの手順は、本体裏面にシルクで書かれています。またArduinoIDEのダウンロード先もQRコードで読み取れます。
-* USB-Aコネクタ（収納式）で、PCのUSB端子に直接差し込むことができます。またmicroUSBケーブルで接続することもできます。
-* Arduinoの入出力端子はメスソケットですので、ジャンパワイヤ等をさしてつかうこともできます。
-* USB-シリアル変換には、FTDI FT232Rを使っています。
-* [スイッチサイエンスで委託販売はじまりました](https://www.switch-science.com/catalog/3917/)
+Carduino (v4.1)�́A�N���W�b�g�J�[�h�T�C�Y�E����2.4mm�́AArduinoUNO�݊��@�ł��B
+���z�Ȃǂɂ�������Ă����āA���ł����̏��Arduino���g�����Ƃ��ł��܂��B
+�uArduino�͋�������񂾂��ǁA�܂��G�������ƂȂ��񂾂�ˁv�Ƃ����l�ɉ������A���̏��Arduino��̌����Ă��炢�܂��傤�B
+* ArduinoIDE�̓�������L�`�J�܂ł̎菇�́A�{�̗��ʂɃV���N�ŏ�����Ă��܂��B�܂�ArduinoIDE�̃_�E�����[�h���QR�R�[�h�œǂݎ��܂��B
+* USB-A�R�l�N�^�i���[���j�ŁAPC��USB�[�q�ɒ��ڍ������ނ��Ƃ��ł��܂��B�܂�USB Type-C�P�[�u���Őڑ����邱�Ƃ��ł��܂��B
+* Arduino�̓��o�͒[�q�̓��X�\�P�b�g�ł��̂ŁA�W�����p���C�����������Ă������Ƃ��ł��܂��B
+* USB-�V���A���ϊ��ɂ́AFTDI FT232R���g���Ă��܂��B
+* [�X�C�b�`�T�C�G���X�ňϑ��̔��͂��܂�܂���](https://www.switch-science.com/catalog/3917/)
 
-![ura](Carduino_v20_2.jpg)
+# �g����
 
-# 使い方
+�{�̗��ʂ̃V���N���Q�Ƃ��Ă��������B
 
-本体裏面のシルクを参照してください。
+PC�Ƃ̐ڑ��́A�ȉ���2�ʂ肪�\�ł��B
+* �{�̂̃R�l�N�^����������͂����A�ȉ��̂悤�ɂƂ���APC��USB�|�[�g�ɒ��ڂ������݂܂��B�i���R�l�N�^�̌����ɒ��ӂ��Ă��������B�\�����t�̏ꍇ�A�{�̂�PC��j�����鋰�ꂪ����܂��j
+![USB connector](Carduino_v41_conn.jpg)
 
-PCとの接続は、以下の2通りが可能です。
-* 本体のコネクタをいったんはずし、以下のようにとりつけ、PCのUSBポートに直接さしこみます。（※コネクタの向きに注意してください。表裏が逆の場合、本体やPCを破損する恐れがあります）
-![USB connector](Carduino_v20_conn.jpg)
+* USB Type-C�P�[�u����{�̃R�l�N�^���ɂ������݂܂��B
 
-* microUSBケーブルを以下のように本体にさしこみます。（表裏に注意してください。基板パターンがある面が、ケーブルのmicroUSBコネクタの端子側になります） 
+�Ȃ����g�p����USB�R�l�N�^�����i�[���Ă����R�l�N�^�ɂ́AA6/A7�A�d��5V�AGND���Ȃ����Ă��܂��B
 
-![microUSB connector](Carduino_v20_uUSB.jpg)
+# ����
 
-なお未使用時にUSBコネクタ部を格納しておくコネクタには、A6/A7、電源5V、GNDがつながっています。
+* �K�[�o�[�f�[�^(Carduino_v41_gerber.zip)�Ŋ�����i��0.6mm�j���A���i�\�iCarduino_v41_bom.xlsx�j�̕��i���Ƃ���܂��B
+* 4p�A6p�A8p�̃s���\�P�b�g�i�e2�F�H���d�q���ōw���ł��܂��j���A��̍a�ɂ��킹�ĉ������ɂ͂񂾕t�����܂��B�܂�4p�s���w�b�_�i�H���d�q���ōw���ł��܂��j��USB�R�l�N�^���ɂƂ���܂��B
+* ��1mm�܂���1.5mm�̃A�N������Carduino_v41_cover.pdf�Ń��[�U�[�J�b�^�[���ŃJ�b�g���A�{�̂ɓ������ʃe�[�v�ⓧ���{���h���ŌŒ肵�܂��B
+* ArduinoUNO�p�̃u�[�g���[�_���������݂܂�
 
-# 作り方
-
-* ガーバーデータ(Carduino_v20_gerber.zip)で基板製造（板厚1.0mm）し、BOM（部品表）の部品をとりつけます。※v20は、D0-D7のコネクタ用の基板切り書きの位置が少し間違っています。基板を少し削れば取り付け可能ですが、気になる場合は修正版ガーバーデータ(Carduino_v21_gerber.zip)を使用してください。ただし後述のレーザー加工データを少し修正する必要があります（未修正）
-* 4p、6p、8pのピンソケット（各2個：秋月電子等で購入できます）を、基板の溝にあわせて横向けにはんだ付けします。また4pピンヘッダ（秋月電子等で購入できます）をUSBコネクタ側にとりつけます。
-* microUSBコネクタ部を使用する場合は、コネクタ部周辺をフライス盤で、板厚0.6mmまで削ります
-* 板厚1mmのアクリル板をレーザーカッター等でカットし、本体に透明両面テープや木工用ボンド等で固定します。
-* ArduinoProMini(3.3V,8MHz)用のブートローダを書き込みます
-
-# 作者
+# ���
 
 Junichi Akita (akita@ifdl.jp, @akita11)
 
+
+
+
+�g����
+�{�̗��ʂ̃V���N���Q�Ƃ��Ă��������BPC�Ƃ̐ڑ��́A�ȉ���2�ʂ肪�\�ł��B
+
+- �{�̂̃R�l�N�^����������͂����A�ȉ��̂悤�ɂƂ���APC��USB�|�[�g�ɒ��ڂ������݂܂��i���R�l�N�^�̌����ɒ��ӂ��Ă��������B�\�����t�̏ꍇ�A�{�̂�PC��j�����鋰�ꂪ����܂��j�B
+<Carduino_v41conn.jpg>
+
+- USB Type-C�P�[�u����{�̃R�l�N�^���ɂ������݂܂��B
+
+�Ȃ����g�p����USB�R�l�N�^�����i�[���Ă����R�l�N�^�ɂ́AA6/A7�A�d��5V�AGND���Ȃ����Ă��܂��B
+
+�T�|�[�g�y�[�W
+https://github.com/akita11/Carduino

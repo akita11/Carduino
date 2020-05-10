@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Carduino_v41)(type KiCad)(uri "$(KIPRJMOD)/Carduino_v41.pretty")(options "")(descr ""))
+)

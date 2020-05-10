@@ -1,0 +1,1242 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	3000 2100 3300 2100
+Text Label 3200 2100 0    70   ~ 0
+A0
+Wire Wire Line
+	8700 2400 8900 2400
+Text Label 8900 2400 0    70   ~ 0
+A0
+Wire Wire Line
+	3000 2200 3300 2200
+Text Label 3200 2200 0    70   ~ 0
+A1
+Wire Wire Line
+	8700 2500 8900 2500
+Text Label 8900 2500 0    70   ~ 0
+A1
+Wire Wire Line
+	3000 2300 3300 2300
+Text Label 3200 2300 0    70   ~ 0
+A2
+Wire Wire Line
+	8700 2600 8900 2600
+Text Label 8900 2600 0    70   ~ 0
+A2
+Wire Wire Line
+	3000 2400 3300 2400
+Text Label 3200 2400 0    70   ~ 0
+A3
+Wire Wire Line
+	8700 2700 8900 2700
+Text Label 8900 2700 0    70   ~ 0
+A3
+Wire Wire Line
+	3000 2500 3300 2500
+Text Label 3200 2500 0    70   ~ 0
+A4
+Wire Wire Line
+	8700 2800 8900 2800
+Text Label 8900 2800 0    70   ~ 0
+A4
+Wire Wire Line
+	3000 2600 3300 2600
+Text Label 3200 2600 0    70   ~ 0
+A5
+Wire Wire Line
+	8700 2900 8900 2900
+Text Label 8900 2900 0    70   ~ 0
+A5
+Wire Wire Line
+	4200 2100 3900 2100
+Text Label 3900 2100 0    70   ~ 0
+D0
+Wire Wire Line
+	8700 3300 8900 3300
+Text Label 8900 3300 0    70   ~ 0
+D0
+Wire Wire Line
+	6300 4200 6500 4200
+Text Label 6400 4200 0    70   ~ 0
+D0
+Wire Wire Line
+	4200 2200 3900 2200
+Text Label 3900 2200 0    70   ~ 0
+D1
+Wire Wire Line
+	8700 3400 8900 3400
+Text Label 8900 3400 0    70   ~ 0
+D1
+Wire Wire Line
+	6300 4300 6500 4300
+Text Label 6400 4300 0    70   ~ 0
+D1
+Wire Wire Line
+	4200 2300 3900 2300
+Text Label 3900 2300 0    70   ~ 0
+D2
+Wire Wire Line
+	8700 3500 8900 3500
+Text Label 8900 3500 0    70   ~ 0
+D2
+Wire Wire Line
+	4200 2400 3900 2400
+Text Label 3900 2400 0    70   ~ 0
+D3
+Wire Wire Line
+	8700 3600 8900 3600
+Text Label 8900 3600 0    70   ~ 0
+D3
+Wire Wire Line
+	4200 2500 3900 2500
+Text Label 3900 2500 0    70   ~ 0
+D4
+Wire Wire Line
+	8700 3700 8900 3700
+Text Label 8900 3700 0    70   ~ 0
+D4
+Wire Wire Line
+	4200 2600 3900 2600
+Text Label 3900 2600 0    70   ~ 0
+D5
+Wire Wire Line
+	8700 3800 8900 3800
+Text Label 8900 3800 0    70   ~ 0
+D5
+Wire Wire Line
+	4200 2700 3900 2700
+Text Label 3900 2700 0    70   ~ 0
+D6
+Wire Wire Line
+	8700 3900 8900 3900
+Text Label 8900 3900 0    70   ~ 0
+D6
+Wire Wire Line
+	4200 2800 3900 2800
+Text Label 3900 2800 0    70   ~ 0
+D7
+Wire Wire Line
+	8700 4000 8900 4000
+Text Label 8900 4000 0    70   ~ 0
+D7
+Wire Wire Line
+	4200 3100 3900 3100
+Text Label 3900 3100 0    70   ~ 0
+D8
+Wire Wire Line
+	8700 4100 8900 4100
+Text Label 8900 4100 0    70   ~ 0
+D8
+Wire Wire Line
+	4200 3200 3900 3200
+Text Label 3900 3200 0    70   ~ 0
+D9
+Wire Wire Line
+	8700 4200 8900 4200
+Text Label 8900 4200 0    70   ~ 0
+D9
+Wire Wire Line
+	4200 3300 3900 3300
+Text Label 3900 3300 0    70   ~ 0
+D10
+Wire Wire Line
+	8700 4300 8900 4300
+Text Label 8900 4300 0    70   ~ 0
+D10
+Wire Wire Line
+	4200 3400 3900 3400
+Text Label 3900 3400 0    70   ~ 0
+D11
+Wire Wire Line
+	8700 4400 8900 4400
+Text Label 8900 4400 0    70   ~ 0
+D11
+Wire Wire Line
+	9800 3300 9600 3300
+Text Label 9600 3300 0    70   ~ 0
+D11
+Wire Wire Line
+	4200 3500 3900 3500
+Text Label 3900 3500 0    70   ~ 0
+D12
+Wire Wire Line
+	8700 4500 8900 4500
+Text Label 8900 4500 0    70   ~ 0
+D12
+Wire Wire Line
+	9800 3200 9600 3200
+Text Label 9600 3200 0    70   ~ 0
+D12
+Wire Wire Line
+	4200 3600 3900 3600
+Text Label 3900 3600 0    70   ~ 0
+D13
+Wire Wire Line
+	8700 4600 8900 4600
+Text Label 8900 4600 0    70   ~ 0
+D13
+Wire Wire Line
+	9800 3100 9600 3100
+Text Label 9600 3100 0    70   ~ 0
+D13
+Wire Wire Line
+	6900 5800 6800 5800
+Text Label 6800 5800 0    70   ~ 0
+D13
+Wire Wire Line
+	4200 3800 3900 3800
+Text Label 3900 3800 0    70   ~ 0
+VREF
+Wire Wire Line
+	7100 2500 6900 2500
+Text Label 6900 2500 0    70   ~ 0
+VREF
+Wire Wire Line
+	3000 3100 3200 3100
+Wire Wire Line
+	3200 3100 3200 3200
+Wire Wire Line
+	3200 3200 3200 3900
+Wire Wire Line
+	3000 3200 3200 3200
+Connection ~ 3200 3200
+Text Label 3000 3100 0    10   ~ 0
+GND
+Wire Wire Line
+	4200 3700 4000 3700
+Wire Wire Line
+	4000 3700 4000 3900
+Text Label 4200 3700 0    10   ~ 0
+GND
+Wire Wire Line
+	7500 5100 7500 4900
+Wire Wire Line
+	7500 4900 7600 4900
+Wire Wire Line
+	7600 4900 7700 4900
+Connection ~ 7500 4900
+Connection ~ 7600 4900
+Text Label 7500 5100 0    10   ~ 0
+GND
+Wire Wire Line
+	9800 3400 9700 3400
+Wire Wire Line
+	9700 3400 9700 3500
+Text Label 9800 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	8700 5500 8900 5500
+Wire Wire Line
+	8900 5600 8900 5500
+Connection ~ 8900 5500
+Text Label 8700 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	4500 5800 4400 5800
+Wire Wire Line
+	4400 5800 4400 6100
+Wire Wire Line
+	4400 6100 4400 6400
+Wire Wire Line
+	4400 6400 5600 6400
+Wire Wire Line
+	5600 6400 5600 6100
+Wire Wire Line
+	5600 6100 5600 6000
+Wire Wire Line
+	5600 6000 5600 5900
+Wire Wire Line
+	4300 5100 4300 5800
+Wire Wire Line
+	4300 5800 4400 5800
+Wire Wire Line
+	5600 5700 5600 5900
+Wire Wire Line
+	3800 5600 3800 6100
+Wire Wire Line
+	3800 6100 4400 6100
+Connection ~ 4400 6400
+Connection ~ 5600 6100
+Connection ~ 5600 6000
+Connection ~ 4400 5800
+Connection ~ 5600 5900
+Connection ~ 4400 6100
+Text Label 4500 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	3600 6000 3600 6100
+Wire Wire Line
+	3600 6000 3000 6000
+Text Label 3600 6000 0    10   ~ 0
+GND
+Wire Wire Line
+	2500 4500 2800 4500
+Text Label 2500 4500 0    10   ~ 0
+GND
+Wire Wire Line
+	2400 3700 2400 3500
+Connection ~ 2400 3700
+Text Label 2400 3700 0    10   ~ 0
+GND
+Wire Wire Line
+	1800 4500 2000 4500
+Wire Wire Line
+	2000 4500 2000 4600
+Wire Wire Line
+	2000 4600 2000 4700
+Wire Wire Line
+	2000 4700 2000 4800
+Wire Wire Line
+	2000 4800 2000 4900
+Wire Wire Line
+	1800 4800 2000 4800
+Wire Wire Line
+	1800 4700 2000 4700
+Wire Wire Line
+	1800 4600 2000 4600
+Connection ~ 2000 4800
+Connection ~ 2000 4700
+Connection ~ 2000 4600
+Text Label 1800 4500 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 3300 3300 3300
+Wire Wire Line
+	3300 3300 3300 3000
+Text Label 3000 3300 0    10   ~ 0
++5V
+Wire Wire Line
+	7700 2000 7700 2100
+Wire Wire Line
+	7700 2100 7800 2100
+Wire Wire Line
+	7800 2100 7900 2100
+Connection ~ 7700 2100
+Connection ~ 7800 2100
+Text Label 7700 2000 0    10   ~ 0
++5V
+Wire Wire Line
+	6700 2300 6700 2000
+Text Label 6700 2300 0    10   ~ 0
++5V
+Wire Wire Line
+	9800 2900 9700 2900
+Wire Wire Line
+	9700 2900 9700 2800
+Text Label 9800 2900 0    10   ~ 0
++5V
+Wire Wire Line
+	8900 5100 8900 5200
+Wire Wire Line
+	8700 5200 8900 5200
+Connection ~ 8900 5200
+Text Label 8900 5100 0    10   ~ 0
++5V
+Wire Wire Line
+	4500 4200 4300 4200
+Wire Wire Line
+	4300 4200 4300 4100
+Wire Wire Line
+	4500 4300 4300 4300
+Wire Wire Line
+	4300 4300 4300 4200
+Wire Wire Line
+	4500 4500 4300 4500
+Wire Wire Line
+	4300 4500 4300 4300
+Wire Wire Line
+	4300 4500 4300 4800
+Connection ~ 4300 4200
+Connection ~ 4300 4300
+Connection ~ 4300 4500
+Text Label 4500 4200 0    10   ~ 0
++5V
+Wire Wire Line
+	6600 5000 6700 5000
+Wire Wire Line
+	6700 5000 6700 4800
+Wire Wire Line
+	6600 5200 6700 5200
+Wire Wire Line
+	6700 5200 6700 5000
+Connection ~ 6700 5000
+Text Label 6600 5000 0    10   ~ 0
++5V
+Wire Wire Line
+	3600 4900 3600 5000
+Text Label 3600 4900 0    10   ~ 0
++5V
+Wire Wire Line
+	2800 4200 2800 4100
+Wire Wire Line
+	2500 4200 2800 4200
+Text Label 2800 4200 0    10   ~ 0
++5V
+Wire Wire Line
+	3000 3400 3500 3400
+Wire Wire Line
+	3500 3400 3500 3000
+Text Label 3000 3400 0    10   ~ 0
++3V3
+Wire Wire Line
+	4500 5300 3800 5300
+Wire Wire Line
+	3800 5100 3800 5300
+Connection ~ 3800 5300
+Text Label 4500 5300 0    10   ~ 0
++3V3
+Wire Wire Line
+	3000 3500 3300 3500
+Text Label 3300 3500 0    70   ~ 0
+RSTN
+Wire Wire Line
+	7100 2700 6700 2700
+Wire Wire Line
+	6700 2700 6600 2700
+Connection ~ 6700 2700
+Text Label 6900 2700 0    70   ~ 0
+RSTN
+Wire Wire Line
+	9800 3000 9600 3000
+Text Label 9600 3000 0    70   ~ 0
+RSTN
+Wire Wire Line
+	6300 2700 6100 2700
+Text Label 6100 2700 0    70   ~ 0
+DTR
+Wire Wire Line
+	5600 4600 5900 4600
+Text Label 5900 4600 0    70   ~ 0
+DTR
+Wire Wire Line
+	5900 4200 5600 4200
+Wire Wire Line
+	5600 4300 5900 4300
+Wire Wire Line
+	5600 5100 5700 5100
+Wire Wire Line
+	5700 5100 5700 5000
+Wire Wire Line
+	5700 5000 5900 5000
+Wire Wire Line
+	5600 5200 5900 5200
+Wire Wire Line
+	3600 5900 3600 5600
+Wire Wire Line
+	3200 5900 3200 5700
+Wire Wire Line
+	3200 5700 3000 5700
+Text Label 3400 5900 0    70   ~ 0
+VBUS
+Wire Wire Line
+	1800 2000 1900 2000
+Wire Wire Line
+	1900 2000 2200 2000
+Wire Wire Line
+	1800 2100 1900 2100
+Wire Wire Line
+	1900 2100 1900 2000
+Wire Wire Line
+	1800 2200 1900 2200
+Wire Wire Line
+	1900 2200 1900 2100
+Wire Wire Line
+	1800 2300 1900 2300
+Wire Wire Line
+	1900 2300 1900 2200
+Connection ~ 1900 2000
+Text Label 1900 2000 0    70   ~ 0
+VBUS
+Connection ~ 1900 2100
+Connection ~ 1900 2200
+Wire Wire Line
+	4100 5600 4500 5600
+Wire Wire Line
+	4100 5800 4100 5600
+Text Label 4100 5600 0    70   ~ 0
+USBDM
+Wire Wire Line
+	1800 4300 1800 4200
+Wire Wire Line
+	1800 4200 2000 4200
+Connection ~ 1800 4200
+Text Label 1900 4200 0    70   ~ 0
+USBDM
+Wire Wire Line
+	2600 6000 2200 6000
+Wire Wire Line
+	2200 5900 2500 5900
+Wire Wire Line
+	2500 5900 2500 5700
+Wire Wire Line
+	2500 5700 2600 5700
+Wire Wire Line
+	2200 5800 2600 5800
+Wire Wire Line
+	2800 5900 2800 5600
+Wire Wire Line
+	2800 5600 2300 5600
+Wire Wire Line
+	2300 5600 2300 5700
+Wire Wire Line
+	2300 5700 2200 5700
+Wire Wire Line
+	2600 5900 2800 5900
+Wire Wire Line
+	4000 5700 4000 5500
+Wire Wire Line
+	4000 5500 4500 5500
+Wire Wire Line
+	3500 5700 4000 5700
+Wire Wire Line
+	3000 5900 2900 5900
+Wire Wire Line
+	2900 5900 2900 5500
+Wire Wire Line
+	3500 5700 3500 5500
+Text Label 4000 5500 0    70   ~ 0
+USBDP
+Wire Wire Line
+	1800 4100 1800 4000
+Wire Wire Line
+	1800 4000 2000 4000
+Connection ~ 1800 4000
+Text Label 1900 4000 0    70   ~ 0
+USBDP
+Wire Wire Line
+	8700 3000 8900 3000
+Text Label 8900 3000 0    70   ~ 0
+A6
+Wire Wire Line
+	2500 4300 2800 4300
+Text Label 2800 4300 0    70   ~ 0
+A6
+Wire Wire Line
+	8700 3100 8900 3100
+Text Label 8900 3100 0    70   ~ 0
+A7
+Wire Wire Line
+	2500 4400 2800 4400
+Text Label 2800 4400 0    70   ~ 0
+A7
+Wire Wire Line
+	7100 3000 5900 3000
+Wire Wire Line
+	5900 3000 5900 3300
+Connection ~ 5900 3300
+Wire Wire Line
+	7100 3100 6500 3100
+Wire Wire Line
+	6500 3100 6500 3300
+Connection ~ 6500 3300
+Wire Wire Line
+	2000 3500 1800 3500
+Wire Wire Line
+	2000 3700 1800 3700
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X6SMDT CN1
+U 1 1 496D2C97
+P 2900 2400
+F 0 "CN1" H 2650 2825 59  0000 L BNN
+F 1 "CON_PINHD-1X6SMDT" H 2650 2000 59  0000 L BNN
+F 2 "Carduino_v41:1X06SMD_THIN" H 2900 2400 50  0001 C CNN
+F 3 "" H 2900 2400 50  0001 C CNN
+	1    2900 2400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X8SMDT CN3
+U 1 1 D69C38F6
+P 4300 2500
+F 0 "CN3" H 4050 3025 59  0000 L BNN
+F 1 "CON_PINHD-1X8SMDT" H 4050 2000 59  0000 L BNN
+F 2 "Carduino_v41:1X08SMD_THIN" H 4300 2500 50  0001 C CNN
+F 3 "" H 4300 2500 50  0001 C CNN
+	1    4300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X8SMDT CN4
+U 1 1 61EA98FF
+P 4300 3500
+F 0 "CN4" H 4050 4025 59  0000 L BNN
+F 1 "CON_PINHD-1X8SMDT" H 4050 3000 59  0000 L BNN
+F 2 "Carduino_v41:1X08SMD_THIN" H 4300 3500 50  0001 C CNN
+F 3 "" H 4300 3500 50  0001 C CNN
+	1    4300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_AVRISPSMD CN5
+U 1 1 12D0B2D4
+P 10200 3200
+F 0 "CN5" H 10000 3600 59  0000 L BNN
+F 1 "CON_AVRISPSMD" H 10200 3200 50  0001 C CNN
+F 2 "Carduino_v41:2X3SMD" H 10200 3200 50  0001 C CNN
+F 3 "" H 10200 3200 50  0001 C CNN
+	1    10200 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:IC_FT232RQ U1
+U 1 1 FAE54404
+P 5000 5100
+F 0 "U1" H 4600 6150 59  0000 L BNN
+F 1 "IC_FT232RQ" H 4600 3900 59  0000 L BNN
+F 2 "Carduino_v41:QFN32" H 5000 5100 50  0001 C CNN
+F 3 "" H 5000 5100 50  0001 C CNN
+	1    5000 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:MCU_ATMEGA328P_ARDUINO32M U2
+U 1 1 4E0AB7A9
+P 8000 3500
+F 0 "U2" H 8200 4700 42  0000 L BNN
+F 1 "MCU_ATMEGA328P_ARDUINO32M" H 8200 2300 42  0000 L BNN
+F 2 "Carduino_v41:QFN32" H 8000 3500 50  0001 C CNN
+F 3 "" H 8000 3500 50  0001 C CNN
+	1    8000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:LED0603 D1
+U 1 1 4EA27DED
+P 6100 5000
+F 0 "D1" V 6240 4820 59  0000 L BNN
+F 1 "GREEN" V 6325 4820 59  0000 L BNN
+F 2 "Carduino_v41:SPARKFUN_LED-0603" H 6100 5000 50  0001 C CNN
+F 3 "" H 6100 5000 50  0001 C CNN
+	1    6100 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:LED0603 D2
+U 1 1 975EB5E2
+P 6100 5200
+F 0 "D2" V 6240 5020 59  0000 L BNN
+F 1 "RED" V 6325 5020 59  0000 L BNN
+F 2 "Carduino_v41:SPARKFUN_LED-0603" H 6100 5200 50  0001 C CNN
+F 3 "" H 6100 5200 50  0001 C CNN
+	1    6100 5200
+	0    1    1    0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:LED0603 D3
+U 1 1 93886C31
+P 7100 5000
+F 0 "D3" V 7240 4820 59  0000 L BNN
+F 1 "LED0603" V 7325 4820 59  0000 L BNN
+F 2 "Carduino_v41:SPARKFUN_LED-0603" H 7100 5000 50  0001 C CNN
+F 3 "" H 7100 5000 50  0001 C CNN
+	1    7100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C1
+U 1 1 8A2F0D67
+P 8900 5400
+F 0 "C1" H 8960 5515 59  0000 L BNN
+F 1 "0.1u" H 8960 5315 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 8900 5400 50  0001 C CNN
+F 3 "" H 8900 5400 50  0001 C CNN
+	1    8900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C2
+U 1 1 EEABBFD7
+P 8700 5400
+F 0 "C2" H 8760 5515 59  0000 L BNN
+F 1 "0.1u" H 8760 5315 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 8700 5400 50  0001 C CNN
+F 3 "" H 8700 5400 50  0001 C CNN
+	1    8700 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C3
+U 1 1 AE1136CF
+P 6500 2700
+F 0 "C3" H 6560 2815 59  0000 L BNN
+F 1 "0.1u" H 6560 2615 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6500 2700 50  0001 C CNN
+F 3 "" H 6500 2700 50  0001 C CNN
+	1    6500 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R1
+U 1 1 DDF01354
+P 6400 5000
+F 0 "R1" H 6250 5059 59  0000 L BNN
+F 1 "1k" H 6250 4870 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6400 5000 50  0001 C CNN
+F 3 "" H 6400 5000 50  0001 C CNN
+	1    6400 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R2
+U 1 1 0CC8F4E9
+P 6400 5200
+F 0 "R2" H 6250 5259 59  0000 L BNN
+F 1 "1k" H 6250 5070 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6400 5200 50  0001 C CNN
+F 3 "" H 6400 5200 50  0001 C CNN
+	1    6400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R3
+U 1 1 299CF91A
+P 7100 5400
+F 0 "R3" H 6950 5459 59  0000 L BNN
+F 1 "1k" H 6950 5270 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 7100 5400 50  0001 C CNN
+F 3 "" H 7100 5400 50  0001 C CNN
+	1    7100 5400
+	0    1    1    0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R4
+U 1 1 B13F4994
+P 6700 2500
+F 0 "R4" H 6550 2559 59  0000 L BNN
+F 1 "10k" H 6550 2370 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6700 2500 50  0001 C CNN
+F 3 "" H 6700 2500 50  0001 C CNN
+	1    6700 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C4
+U 1 1 2580B974
+P 4300 5000
+F 0 "C4" H 4360 5115 59  0000 L BNN
+F 1 "0.1u" H 4360 4915 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 4300 5000 50  0001 C CNN
+F 3 "" H 4300 5000 50  0001 C CNN
+	1    4300 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+3V3 #+3V01
+U 1 1 7D977A11
+P 3500 2900
+F 0 "#+3V01" V 3600 2700 42  0000 L BNN
+F 1 "POW_+3V3" H 3500 2900 50  0001 C CNN
+F 2 "" H 3500 2900 50  0001 C CNN
+F 3 "" H 3500 2900 50  0001 C CNN
+	1    3500 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+01
+U 1 1 6A081B6E
+P 3300 2900
+F 0 "#P+01" H 3300 2900 50  0001 C CNN
+F 1 "POW_+5V" V 3200 2700 59  0000 L BNN
+F 2 "" H 3300 2900 50  0001 C CNN
+F 3 "" H 3300 2900 50  0001 C CNN
+	1    3300 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND01
+U 1 1 8DA2BB24
+P 3200 4000
+F 0 "#GND01" H 3200 4000 50  0001 C CNN
+F 1 "POW_GND" H 3200 4000 50  0001 C CNN
+F 2 "" H 3200 4000 50  0001 C CNN
+F 3 "" H 3200 4000 50  0001 C CNN
+	1    3200 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND02
+U 1 1 4877C9E2
+P 4000 4000
+F 0 "#GND02" H 4000 4000 50  0001 C CNN
+F 1 "POW_GND" H 4000 4000 50  0001 C CNN
+F 2 "" H 4000 4000 50  0001 C CNN
+F 3 "" H 4000 4000 50  0001 C CNN
+	1    4000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+02
+U 1 1 637B3A6A
+P 6700 1900
+F 0 "#P+02" H 6700 1900 50  0001 C CNN
+F 1 "POW_+5V" V 6600 1700 59  0000 L BNN
+F 2 "" H 6700 1900 50  0001 C CNN
+F 3 "" H 6700 1900 50  0001 C CNN
+	1    6700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+03
+U 1 1 48C2C5DB
+P 7700 1900
+F 0 "#P+03" H 7700 1900 50  0001 C CNN
+F 1 "POW_+5V" V 7600 1700 59  0000 L BNN
+F 2 "" H 7700 1900 50  0001 C CNN
+F 3 "" H 7700 1900 50  0001 C CNN
+	1    7700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND03
+U 1 1 21137572
+P 7500 5200
+F 0 "#GND03" H 7500 5200 50  0001 C CNN
+F 1 "POW_GND" H 7500 5200 50  0001 C CNN
+F 2 "" H 7500 5200 50  0001 C CNN
+F 3 "" H 7500 5200 50  0001 C CNN
+	1    7500 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+04
+U 1 1 459FCD94
+P 9700 2700
+F 0 "#P+04" H 9700 2700 50  0001 C CNN
+F 1 "POW_+5V" V 9600 2500 59  0000 L BNN
+F 2 "" H 9700 2700 50  0001 C CNN
+F 3 "" H 9700 2700 50  0001 C CNN
+	1    9700 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND04
+U 1 1 12C122FD
+P 9700 3600
+F 0 "#GND04" H 9700 3600 50  0001 C CNN
+F 1 "POW_GND" H 9700 3600 50  0001 C CNN
+F 2 "" H 9700 3600 50  0001 C CNN
+F 3 "" H 9700 3600 50  0001 C CNN
+	1    9700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+05
+U 1 1 57F4DC09
+P 8900 5000
+F 0 "#P+05" H 8900 5000 50  0001 C CNN
+F 1 "POW_+5V" V 8800 4800 59  0000 L BNN
+F 2 "" H 8900 5000 50  0001 C CNN
+F 3 "" H 8900 5000 50  0001 C CNN
+	1    8900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND05
+U 1 1 5B6A58CA
+P 8900 5700
+F 0 "#GND05" H 8900 5700 50  0001 C CNN
+F 1 "POW_GND" H 8900 5700 50  0001 C CNN
+F 2 "" H 8900 5700 50  0001 C CNN
+F 3 "" H 8900 5700 50  0001 C CNN
+	1    8900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R5
+U 1 1 4373A00B
+P 6100 4200
+F 0 "R5" H 5950 4259 59  0000 L BNN
+F 1 "1k" H 5950 4070 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6100 4200 50  0001 C CNN
+F 3 "" H 6100 4200 50  0001 C CNN
+	1    6100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R6
+U 1 1 9270C831
+P 6100 4300
+F 0 "R6" H 5950 4359 59  0000 L BNN
+F 1 "1k" H 5950 4170 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6100 4300 50  0001 C CNN
+F 3 "" H 6100 4300 50  0001 C CNN
+	1    6100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+06
+U 1 1 4B6CF0C8
+P 4300 4000
+F 0 "#P+06" H 4300 4000 50  0001 C CNN
+F 1 "POW_+5V" V 4200 3800 59  0000 L BNN
+F 2 "" H 4300 4000 50  0001 C CNN
+F 3 "" H 4300 4000 50  0001 C CNN
+	1    4300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+3V3 #+3V02
+U 1 1 816AD438
+P 3800 5000
+F 0 "#+3V02" V 3900 4800 42  0000 L BNN
+F 1 "POW_+3V3" H 3800 5000 50  0001 C CNN
+F 2 "" H 3800 5000 50  0001 C CNN
+F 3 "" H 3800 5000 50  0001 C CNN
+	1    3800 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+07
+U 1 1 FAFE20BD
+P 6700 4700
+F 0 "#P+07" H 6700 4700 50  0001 C CNN
+F 1 "POW_+5V" V 6600 4500 59  0000 L BNN
+F 2 "" H 6700 4700 50  0001 C CNN
+F 3 "" H 6700 4700 50  0001 C CNN
+	1    6700 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+08
+U 1 1 E32DC4A8
+P 3600 4800
+F 0 "#P+08" H 3600 4800 50  0001 C CNN
+F 1 "POW_+5V" V 3500 4600 59  0000 L BNN
+F 2 "" H 3600 4800 50  0001 C CNN
+F 3 "" H 3600 4800 50  0001 C CNN
+	1    3600 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND06
+U 1 1 F6847280
+P 3600 6200
+F 0 "#GND06" H 3600 6200 50  0001 C CNN
+F 1 "POW_GND" H 3600 6200 50  0001 C CNN
+F 2 "" H 3600 6200 50  0001 C CNN
+F 3 "" H 3600 6200 50  0001 C CNN
+	1    3600 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND07
+U 1 1 C2693486
+P 4400 6500
+F 0 "#GND07" H 4400 6500 50  0001 C CNN
+F 1 "POW_GND" H 4400 6500 50  0001 C CNN
+F 2 "" H 4400 6500 50  0001 C CNN
+F 3 "" H 4400 6500 50  0001 C CNN
+	1    4400 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND08
+U 1 1 E3161DBF
+P 7100 6100
+F 0 "#GND08" H 7100 6100 50  0001 C CNN
+F 1 "POW_GND" H 7100 6100 50  0001 C CNN
+F 2 "" H 7100 6100 50  0001 C CNN
+F 3 "" H 7100 6100 50  0001 C CNN
+	1    7100 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C5
+U 1 1 20105C24
+P 3800 5500
+F 0 "C5" H 3860 5615 59  0000 L BNN
+F 1 "1u" H 3860 5415 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 3800 5500 50  0001 C CNN
+F 3 "" H 3800 5500 50  0001 C CNN
+	1    3800 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:TR_NMOS_IRLML6344 Q1
+U 1 1 22BC07EB
+P 7000 5800
+F 0 "Q1" H 7120 5820 59  0000 L BNN
+F 1 "TR_NMOS_IRLML6344" H 7000 5800 50  0001 C CNN
+F 2 "Carduino_v41:SOT-23-3-2916" H 7000 5800 50  0001 C CNN
+F 3 "" H 7000 5800 50  0001 C CNN
+	1    7000 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+09
+U 1 1 DD8F0AB4
+P 7100 4800
+F 0 "#P+09" H 7100 4800 50  0001 C CNN
+F 1 "POW_+5V" V 7000 4600 59  0000 L BNN
+F 2 "" H 7100 4800 50  0001 C CNN
+F 3 "" H 7100 4800 50  0001 C CNN
+	1    7100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POLYSW_1206 S1
+U 1 1 788C9994
+P 3600 5300
+F 0 "S1" H 3500 5350 42  0000 L BNN
+F 1 "POLYSW_1206" H 3500 5200 42  0000 L BNN
+F 2 "Carduino_v41:1206" H 3600 5300 50  0001 C CNN
+F 3 "" H 3600 5300 50  0001 C CNN
+	1    3600 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X4SMDT CN6
+U 1 1 72E79C2B
+P 3000 6000
+F 0 "CN6" H 2850 6425 59  0000 L BNN
+F 1 "CON_PINHD-1X4SMDT" H 2850 5800 59  0000 L BNN
+F 2 "Carduino_v41:1X04SMD_THIN" H 3000 6000 50  0001 C CNN
+F 3 "" H 3000 6000 50  0001 C CNN
+	1    3000 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X4SMDT CN7
+U 1 1 AC9EE0BE
+P 2600 6000
+F 0 "CN7" H 2450 6425 59  0000 L BNN
+F 1 "CON_PINHD-1X4SMDT" H 2450 5800 59  0000 L BNN
+F 2 "Carduino_v41:1X04SMD_THIN" H 2600 6000 50  0001 C CNN
+F 3 "" H 2600 6000 50  0001 C CNN
+	1    2600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_USBPCB JP2
+U 1 1 BAFA783C
+P 2100 6000
+F 0 "JP2" H 2100 6000 50  0001 C CNN
+F 1 "CON_USBPCB" H 2100 6000 50  0001 C CNN
+F 2 "Carduino_v41:USB-A-PCB" H 2100 6000 50  0001 C CNN
+F 3 "" H 2100 6000 50  0001 C CNN
+	1    2100 6000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:LED0603 D4
+U 1 1 04403A79
+P 8200 5200
+F 0 "D4" V 8340 5020 59  0000 L BNN
+F 1 "LED0603" V 8425 5020 59  0000 L BNN
+F 2 "Carduino_v41:SPARKFUN_LED-0603" H 8200 5200 50  0001 C CNN
+F 3 "" H 8200 5200 50  0001 C CNN
+	1    8200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R7
+U 1 1 6FED3E2F
+P 8200 5600
+F 0 "R7" H 8050 5659 59  0000 L BNN
+F 1 "1k" H 8050 5470 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 8200 5600 50  0001 C CNN
+F 3 "" H 8200 5600 50  0001 C CNN
+	1    8200 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+010
+U 1 1 6665561A
+P 8200 5000
+F 0 "#P+010" H 8200 5000 50  0001 C CNN
+F 1 "POW_+5V" V 8100 4800 59  0000 L BNN
+F 2 "" H 8200 5000 50  0001 C CNN
+F 3 "" H 8200 5000 50  0001 C CNN
+	1    8200 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND09
+U 1 1 FD0A31A1
+P 8200 5900
+F 0 "#GND09" H 8200 5900 50  0001 C CNN
+F 1 "POW_GND" H 8200 5900 50  0001 C CNN
+F 2 "" H 8200 5900 50  0001 C CNN
+F 3 "" H 8200 5900 50  0001 C CNN
+	1    8200 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X4SMDT CN8
+U 1 1 99C0620C
+P 2500 4500
+F 0 "CN8" H 2350 4925 59  0000 L BNN
+F 1 "CON_PINHD-1X4SMDT" H 2350 4300 59  0000 L BNN
+F 2 "Carduino_v41:1X04SMD_THIN" H 2500 4500 50  0001 C CNN
+F 3 "" H 2500 4500 50  0001 C CNN
+	1    2500 4500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_+5V #P+011
+U 1 1 4D46F757
+P 2800 4000
+F 0 "#P+011" H 2800 4000 50  0001 C CNN
+F 1 "POW_+5V" V 2700 3800 59  0000 L BNN
+F 2 "" H 2800 4000 50  0001 C CNN
+F 3 "" H 2800 4000 50  0001 C CNN
+	1    2800 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND011
+U 1 1 5518330F
+P 2800 4600
+F 0 "#GND011" H 2800 4600 50  0001 C CNN
+F 1 "POW_GND" H 2800 4600 50  0001 C CNN
+F 2 "" H 2800 4600 50  0001 C CNN
+F 3 "" H 2800 4600 50  0001 C CNN
+	1    2800 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_PINHD-1X6SMDT CN2
+U 1 1 3E9C7CC7
+P 2900 3300
+F 0 "CN2" H 2650 3725 59  0000 L BNN
+F 1 "CON_PINHD-1X6SMDT" H 2650 2900 59  0000 L BNN
+F 2 "Carduino_v41:1X06SMD_THIN" H 2900 3300 50  0001 C CNN
+F 3 "" H 2900 3300 50  0001 C CNN
+	1    2900 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:XTAL3255 X1
+U 1 1 8679BB61
+P 6200 3300
+F 0 "X1" H 6200 3300 50  0001 C CNN
+F 1 "XTAL3255" H 6200 3300 50  0001 C CNN
+F 2 "Carduino_v41:XTAL_3225" H 6200 3300 50  0001 C CNN
+F 3 "" H 6200 3300 50  0001 C CNN
+	1    6200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C6
+U 1 1 B891CD68
+P 5900 3500
+F 0 "C6" H 5960 3615 59  0000 L BNN
+F 1 "10p" H 5960 3415 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 5900 3500 50  0001 C CNN
+F 3 "" H 5900 3500 50  0001 C CNN
+	1    5900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CAP0603 C7
+U 1 1 FD9DC4DC
+P 6500 3500
+F 0 "C7" H 6560 3615 59  0000 L BNN
+F 1 "10p" H 6560 3415 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 6500 3500 50  0001 C CNN
+F 3 "" H 6500 3500 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND012
+U 1 1 8C4C494A
+P 6500 3700
+F 0 "#GND012" H 6500 3700 50  0001 C CNN
+F 1 "POW_GND" H 6500 3700 50  0001 C CNN
+F 2 "" H 6500 3700 50  0001 C CNN
+F 3 "" H 6500 3700 50  0001 C CNN
+	1    6500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND013
+U 1 1 85B66688
+P 5900 3700
+F 0 "#GND013" H 5900 3700 50  0001 C CNN
+F 1 "POW_GND" H 5900 3700 50  0001 C CNN
+F 2 "" H 5900 3700 50  0001 C CNN
+F 3 "" H 5900 3700 50  0001 C CNN
+	1    5900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:CON_USB-CPCBPLUG CN10
+U 1 1 57489C4A
+P 1400 3400
+F 0 "CN10" H 1200 1800 59  0000 L BNN
+F 1 "CON_USB-CPCBPLUG" H 1400 3400 50  0001 C CNN
+F 2 "Carduino_v41:USB-C_PCBPLUG" H 1400 3400 50  0001 C CNN
+F 3 "" H 1400 3400 50  0001 C CNN
+	1    1400 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND014
+U 1 1 B9C9B342
+P 2000 5000
+F 0 "#GND014" H 2000 5000 50  0001 C CNN
+F 1 "POW_GND" H 2000 5000 50  0001 C CNN
+F 2 "" H 2000 5000 50  0001 C CNN
+F 3 "" H 2000 5000 50  0001 C CNN
+	1    2000 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R8
+U 1 1 0177B5B2
+P 2200 3500
+F 0 "R8" H 2050 3559 59  0000 L BNN
+F 1 "5.1k" H 2050 3370 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 2200 3500 50  0001 C CNN
+F 3 "" H 2200 3500 50  0001 C CNN
+	1    2200 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:RES0603 R9
+U 1 1 131F6E65
+P 2200 3700
+F 0 "R9" H 2050 3759 59  0000 L BNN
+F 1 "5.1k" H 2050 3570 59  0000 L BNN
+F 2 "Carduino_v41:0603" H 2200 3700 50  0001 C CNN
+F 3 "" H 2200 3700 50  0001 C CNN
+	1    2200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Carduino_v41-eagle-import:POW_GND #GND015
+U 1 1 7499CEA7
+P 2400 3800
+F 0 "#GND015" H 2400 3800 50  0001 C CNN
+F 1 "POW_GND" H 2400 3800 50  0001 C CNN
+F 2 "" H 2400 3800 50  0001 C CNN
+F 3 "" H 2400 3800 50  0001 C CNN
+	1    2400 3800
+	1    0    0    -1  
+$EndComp
+Text Notes 5800 5000 0    59   ~ 0
+RX
+Text Notes 5800 5200 0    59   ~ 0
+TX
+Wire Wire Line
+	3200 5900 3600 5900
+Wire Wire Line
+	3000 5800 4100 5800
+Wire Wire Line
+	2900 5500 3500 5500
+$EndSCHEMATC
